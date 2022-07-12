@@ -16,8 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-343434?style=for-the-badge&logo=css&logoColor=f2f3f4)
 ![VScode](https://img.shields.io/badge/-VScode-343434?style=for-the-badge&logo=VScode&logoColor=f2f3f4)
 
-
-My projects:
+### My projects:
 
 ### You can contact me:
 
@@ -25,3 +24,5 @@ My projects:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-343434?style=for-the-badge&logo=vk&logoColor=4F7D83)](https://vk.com/alex_provatorov)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-343434?style=for-the-badge&logo=codewars&logoColor=FF0000)](https://www.codewars.com/users/Alex%20Satan)
 [![Instagram](https://img.shields.io/badge/-Instagram-343434?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexsatan23)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexProvatorov&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
