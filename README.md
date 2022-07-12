@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlexProvatorov/AlexProvatorov/blob/main/assets/header.png)
 
-## Hi! I'm a beginner Software Engeneer and another self-descriprion
+## Hi! I'm Alex. I am a beginner backend developer. I like coding, motorcycles and rock and roll.
 
 ### Languages and Tools:
 
