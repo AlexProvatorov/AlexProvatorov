@@ -16,4 +16,10 @@
 
 My projects:
 
-Follow Me
+### Follow Me:
+
+![Gmail](https://img.shields.io/badge/-Gmail-343434?style=for-the-badge&logo=gmail)<a href = "mailto: sasha.provatorov@gmail.com"></a>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-343434?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexsatan23)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-343434?style=for-the-badge&logo=vk&logoColor=4F7D83)](https://vk.com/alex_provatorov)
+[![Telegram](https://img.shields.io/badge/-Telegram-343434?style=for-the-badge&logo=telegram)](https://t.me/AlexProvatorov)
