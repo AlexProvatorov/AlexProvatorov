@@ -11,15 +11,17 @@
 ![SQL](https://img.shields.io/badge/-SQL-343434?style=for-the-badge&logo=mysql&logoColor=00648b)
 ![Linux](https://img.shields.io/badge/-Linux-343434?style=for-the-badge&logo=linux&logoColor=E9D54D)
 ![Docker](https://img.shields.io/badge/-Docker-343434?style=for-the-badge&logo=Docker&logoColor=3f74f1)
+![GIT](https://img.shields.io/badge/-GIT-343434?style=for-the-badge&logo=git)
+![Html](https://img.shields.io/badge/-HTML-343434?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-343434?style=for-the-badge&logo=css&logoColor=f2f3f4)
 ![VScode](https://img.shields.io/badge/-VScode-343434?style=for-the-badge&logo=VScode&logoColor=f2f3f4)
 
 
 My projects:
 
-### Follow Me:
+### You can contact me:
 
-![Gmail](https://img.shields.io/badge/-Gmail-343434?style=for-the-badge&logo=gmail)<a href = "mailto: sasha.provatorov@gmail.com"></a>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-343434?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexsatan23)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-343434?style=for-the-badge&logo=vk&logoColor=4F7D83)](https://vk.com/alex_provatorov)
 [![Telegram](https://img.shields.io/badge/-Telegram-343434?style=for-the-badge&logo=telegram)](https://t.me/AlexProvatorov)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-343434?style=for-the-badge&logo=vk&logoColor=4F7D83)](https://vk.com/alex_provatorov)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-343434?style=for-the-badge&logo=codewars&logoColor=FF0000)](https://www.codewars.com/users/Alex%20Satan)
+[![Instagram](https://img.shields.io/badge/-Instagram-343434?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexsatan23)
