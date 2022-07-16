@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlexProvatorov/AlexProvatorov/blob/main/assets/header.png)
 
-## Hi! I'm Alex. I am a beginner backend developer. I like coding, motorcycles and rock and roll.
+## Hi, my name is Alexander. I am a beginner backend developer. In spite of getting higher medical education and working in medical department (time-consuming work connected with it) since middle of 5th year I've been spending all my free time to learn back-end development in Python.  Because I finally found a job that I really want to do and that I really enjoy.
 
 ### Languages and Tools:
 
