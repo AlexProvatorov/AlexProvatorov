@@ -18,6 +18,13 @@
 
 ### My projects:
 
+#### Django web app:
+
+http://www.starit9v.beget.tech/ or
+https://github.com/AlexProvatorov/my_first_project
+
+#### DRF learning:
+https://github.com/AlexProvatorov/drfsite
 ### You can contact me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-343434?style=for-the-badge&logo=telegram)](https://t.me/AlexProvatorov)
